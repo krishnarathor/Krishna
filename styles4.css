@@ -1,0 +1,46 @@
+body {
+    background-color: gainsboro;
+    margin: 150px;
+}
+
+h1 {
+    border-color: red;
+    border-style: dotted;
+    color: yellow;
+    padding: 20px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+}
+
+img {
+    display: flex;
+    margin: auto;
+}
+
+p {
+    border: 5px solid green;
+    color: crimson;
+    font-size: 20px;
+    padding: 20px;
+}
+
+hr {
+    width: 50%;
+}
+
+h3 {
+    color: pink;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
